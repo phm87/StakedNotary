@@ -23,5 +23,20 @@
     "iguana": "blackjok3r",
     "iguana_rpc": "6789",
     "iguana_port": "8222"
+  },
+  {
+    "ac_name": "CFEKAUR",
+    "ac_aur": "1",
+    "ac_reward": "300000000",
+    "ac_halving": "10000",
+    "ac_notarypay": "64",
+    "ac_sapling": "1",
+    "addnode": [
+      ""
+    ],
+    "freq": 5,
+    "iguana": "blackjok3r",
+    "iguana_rpc": "6789",
+    "iguana_port": "8222"
   }
 ]
